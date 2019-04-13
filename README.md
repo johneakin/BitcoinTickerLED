@@ -22,5 +22,5 @@ pip install lomond
 
 
 ## Raspberry Pi3 Connection
-![connections](pi3 pins.png) 
+![connections](pi3%20pins.png) 
 
