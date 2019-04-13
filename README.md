@@ -13,8 +13,8 @@ https://www.ebay.co.uk/itm/264120451110
 
 ## Prequisities 
 
-Run sudo raspi-config__
-Arrow down to P4 SPI__
+Run sudo raspi-config  
+Arrow down to P4 SPI  
 Select yes when it asks you to enable SPI  
   
 pip install --upgrade luma.led_matrix  
