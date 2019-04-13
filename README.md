@@ -3,7 +3,7 @@ Display the realtime Bitcoin price on an LCD matrix
 
 
 ## pictures in action
-![animation](https://ibb.co/84tgVxs)  
+![Example](https://ibb.co/84tgVxs)  
 
 
 ## components
@@ -23,5 +23,5 @@ pip install lomond
 
 
 ## Raspberry Pi3 Connection
-![animation](https://ibb.co/wN57m83) 
+![connections](https://ibb.co/wN57m83) 
 
