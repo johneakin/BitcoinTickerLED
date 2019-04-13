@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# clockMatrix.py
+# ticker.py
 
 import os
 import requests, json
