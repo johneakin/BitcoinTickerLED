@@ -7,7 +7,7 @@ Display the realtime Bitcoin price on an LCD matrix
 
 
 ## Components
-4 in 1 Multiple Modules Microcontroller For MAX7219__
+4 in 1 Multiple Modules Microcontroller For MAX7219  
 https://www.ebay.co.uk/itm/264120451110
 
 
@@ -15,10 +15,10 @@ https://www.ebay.co.uk/itm/264120451110
 
 Run sudo raspi-config__
 Arrow down to P4 SPI__
-Select yes when it asks you to enable SPI__
-__
-pip install --upgrade luma.led_matrix__
-pip install lomond__
+Select yes when it asks you to enable SPI  
+  
+pip install --upgrade luma.led_matrix  
+pip install lomond  
 
 
 ## Raspberry Pi3 Connection
